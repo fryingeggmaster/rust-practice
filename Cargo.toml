@@ -1,0 +1,3 @@
+[workspace]
+members = ["metrics-demo"]
+resolver = "2"
